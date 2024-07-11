@@ -15,7 +15,7 @@ This project aims to create a digit recognition system using the MNIST dataset. 
 ## Dataset
 The MNIST dataset contains 28x28 grayscale images of handwritten digits. Each image is associated with a label from 0 to 9.
 
-You can download the MNIST dataset from here.
+You can download the MNIST dataset from [here](http://yann.lecun.com/exdb/mnist/).
 
 ## Installation
 To run this project, you need to have Python installed on your machine. The required libraries can be installed using the following command:
