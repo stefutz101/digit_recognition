@@ -1,4 +1,4 @@
-#Digit Recognition using MNIST Dataset
+# Digit Recognition using MNIST Dataset
 Welcome to the Digit Recognition project! This project utilizes the MNIST dataset to build a machine learning model capable of recognizing handwritten digits from 0 to 9.
 
 Table of Contents
